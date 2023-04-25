@@ -1,0 +1,29 @@
+.txt1{
+    color: red;
+}
+.txt2{
+    color: red;
+    font-style: italic;
+}
+ol li{
+    color: brown;
+    line-height: 40px;
+}
+
+ul li{
+    color: brown;
+    letter-spacing: 6px;
+
+}
+p{
+    color: brown;
+}
+
+a{
+    text-decoration: none;
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
